@@ -1,0 +1,31 @@
+id,title,artist,movie,genre,mood,bpm,duration,year,youtube_id,thumbnail,plays,rating,min_bandwidth_kbps,audio_bandwidth_kbps,sd_bandwidth_kbps,hd_bandwidth_kbps,fhd_bandwidth_kbps,audio_size_mb,sd_size_mb,hd_size_mb,recommended_quality,language
+1,Rowdy Baby,Dhanush & Dhee,Maari 2,Folk-Dance,Energetic,130,242,2018,x6Q7c9RyMzk,https://img.youtube.com/vi/x6Q7c9RyMzk/hqdefault.jpg,2100000,4.9,128,192,800,2500,5000,5.8,116,290,hd,Tamil
+2,Vaathi Coming,Anirudh Ravichander,Master,Hip-Hop,Energetic,140,195,2021,fRD_3vJagxk,https://img.youtube.com/vi/fRD_3vJagxk/hqdefault.jpg,1800000,4.8,128,192,800,2500,5000,4.7,97,240,hd,Tamil
+3,Arabic Kuthu,Anirudh Ravichander,Beast,Kuthu,Energetic,150,214,2022,KUN5Uf9mObQ,https://img.youtube.com/vi/KUN5Uf9mObQ/hqdefault.jpg,2500000,4.9,128,192,800,2500,5000,5.1,107,265,hd,Tamil
+4,Enjoy Enjaami,Dhee ft Arivu,Independent,Folk,Chill,95,226,2021,eYq7WapuDLU,https://img.youtube.com/vi/eYq7WapuDLU/hqdefault.jpg,3200000,5.0,128,192,800,2500,5000,5.4,108,269,hd,Tamil
+5,Kaavaalaa,Anirudh & Shilpa Rao,Jailer,Dance,Happy,128,222,2023,8_xh_cbYE8c,https://img.youtube.com/vi/8_xh_cbYE8c/hqdefault.jpg,1600000,4.8,128,192,800,2500,5000,5.3,106,264,hd,Tamil
+6,Chellamma,Anirudh Ravichander,Doctor,Pop,Happy,122,206,2021,YVJHndc9J1E,https://img.youtube.com/vi/YVJHndc9J1E/hqdefault.jpg,980000,4.7,128,192,800,2500,5000,4.9,99,245,hd,Tamil
+7,Kannaana Kanney,D Imman,Viswasam,Melody,Sad,70,305,2019,B3hlqsBY0Qk,https://img.youtube.com/vi/B3hlqsBY0Qk/hqdefault.jpg,750000,4.9,128,192,800,2500,5000,7.3,146,363,sd,Tamil
+8,Naatu Naatu,MM Keeravani,RRR,Folk-Dance,Energetic,135,201,2022,ELJ9Cwj7bBU,https://img.youtube.com/vi/ELJ9Cwj7bBU/hqdefault.jpg,4500000,5.0,128,192,800,2500,5000,4.8,96,240,fhd,Tamil
+9,Thalli Pogathey,AR Rahman,Achcham Yenbadhu Madamaiyada,Melody,Sad,68,285,2016,PiL5UTTTrxk,https://img.youtube.com/vi/PiL5UTTTrxk/hqdefault.jpg,560000,4.8,128,192,800,2500,5000,6.8,136,341,sd,Tamil
+10,Kannazhaga,Anirudh Ravichander,3,Melody,Romantic,72,237,2012,9QOfd7XmQ6U,https://img.youtube.com/vi/9QOfd7XmQ6U/hqdefault.jpg,1200000,4.9,128,192,800,2500,5000,5.7,113,284,hd,Tamil
+11,Maruvaarthai Pesade,D Imman,Enai Noki Paayum Thota,Melody,Sad,66,253,2019,yN1Ld4b79V4,https://img.youtube.com/vi/yN1Ld4b79V4/hqdefault.jpg,720000,4.7,128,192,800,2500,5000,6.1,121,302,sd,Tamil
+12,Verithanam,AR Rahman,Bigil,Patriotic,125,218,2019,s5t6K9wJ13s,https://img.youtube.com/vi/s5t6K9wJ13s/hqdefault.jpg,680000,4.7,128,192,800,2500,5000,5.2,104,262,hd,Tamil
+13,Singappenney,AR Rahman,Bigil,Melody,Romantic,82,244,2019,MnbWE8ZKeBg,https://img.youtube.com/vi/MnbWE8ZKeBg/hqdefault.jpg,590000,4.7,128,192,800,2500,5000,5.9,117,294,sd,Tamil
+14,Aalaporaan Tamizhan,AR Rahman,Mersal,Patriotic,120,255,2017,3jtC9lMQFts,https://img.youtube.com/vi/3jtC9lMQFts/hqdefault.jpg,890000,4.8,128,192,800,2500,5000,6.1,122,306,hd,Tamil
+15,Kanave Kanave,Govind Vasantha,96,Melody,Sad,65,274,2018,IcuMfBi7Uio,https://img.youtube.com/vi/IcuMfBi7Uio/hqdefault.jpg,680000,4.9,128,192,800,2500,5000,6.6,131,328,sd,Tamil
+16,Kaathalae Kaathalae,Govind Vasantha,96,Melody,Romantic,70,253,2018,ylLHJ0_IfJI,https://img.youtube.com/vi/ylLHJ0_IfJI/hqdefault.jpg,920000,4.9,128,192,800,2500,5000,6.1,121,302,sd,Tamil
+17,Hey Sinamika,Govind Vasantha,Hey Sinamika,Melody,Romantic,82,248,2022,FbBkMk8JAvg,https://img.youtube.com/vi/FbBkMk8JAvg/hqdefault.jpg,590000,4.7,128,192,800,2500,5000,5.9,119,298,sd,Tamil
+18,Vaa Vaathiyare,Anirudh Ravichander,Anegan,Melody,Happy,90,212,2015,9xP-mDwcPxM,https://img.youtube.com/vi/9xP-mDwcPxM/hqdefault.jpg,290000,4.4,128,192,800,2500,5000,5.1,101,254,sd,Tamil
+19,Sodakku,Anirudh Ravichander,Remo,Kuthu,Happy,145,173,2016,WzSGpmyTBcI,https://img.youtube.com/vi/WzSGpmyTBcI/hqdefault.jpg,480000,4.5,128,192,800,2500,5000,4.1,83,207,sd,Tamil
+20,Minnale,Harris Jayaraj,Minnale,Melody,Romantic,80,264,2001,RzXHcmjL_Yg,https://img.youtube.com/vi/RzXHcmjL_Yg/hqdefault.jpg,450000,4.8,128,192,800,2500,5000,6.3,126,316,sd,Tamil
+21,Saroja Saman Nikalo,Yuvan Shankar Raja,Saroja,Kuthu,Energetic,148,218,2008,k9zvEJMw_ew,https://img.youtube.com/vi/k9zvEJMw_ew/hqdefault.jpg,310000,4.6,128,192,800,2500,5000,5.2,104,260,sd,Tamil
+22,Phone Kaatuthey,Anirudh Ravichander,Maanaadu,Dance,Happy,132,201,2021,L2SoEExUBjk,https://img.youtube.com/vi/L2SoEExUBjk/hqdefault.jpg,390000,4.5,128,192,800,2500,5000,4.8,96,241,sd,Tamil
+23,Valayapatti,Anirudh Ravichander,Varisu,Folk,Happy,140,196,2023,8IqWGjCMm4E,https://img.youtube.com/vi/8IqWGjCMm4E/hqdefault.jpg,870000,4.6,128,192,800,2500,5000,4.7,94,235,hd,Tamil
+24,Nenjame,Anirudh Ravichander,Vikram Vedha,Melody,Sad,72,245,2017,bZZLWFVRCLE,https://img.youtube.com/vi/bZZLWFVRCLE/hqdefault.jpg,520000,4.6,128,192,800,2500,5000,5.9,117,294,sd,Tamil
+25,Ilamai Thirumbuthe,Yuvan Shankar Raja,Pudhupettai,Kuthu,Energetic,138,195,2006,_Ia9bqzxWvM,https://img.youtube.com/vi/_Ia9bqzxWvM/hqdefault.jpg,340000,4.6,128,192,800,2500,5000,4.7,93,234,sd,Tamil
+26,Bigil Bigil Bigiluma,AR Rahman,Bigil,Patriotic,135,214,2019,Jm3X59h331k,https://img.youtube.com/vi/Jm3X59h331k/hqdefault.jpg,450000,4.5,128,192,800,2500,5000,5.1,102,255,hd,Tamil
+27,Kutti Story,Anirudh Ravichander,Master,Hip-Hop,Energetic,142,158,2021,HkFDYyCZBxI,https://img.youtube.com/vi/HkFDYyCZBxI/hqdefault.jpg,780000,4.6,128,192,800,2500,5000,3.8,75,188,hd,Tamil
+28,Butta Bomma,Armaan Malik,Ala Vaikunthapurramuloo,Melody,Romantic,78,214,2020,HKo9ZQEPKNE,https://img.youtube.com/vi/HKo9ZQEPKNE/hqdefault.jpg,2100000,4.7,128,192,800,2500,5000,5.1,102,255,hd,Tamil
+29,Roja Kaadhal,AR Rahman,Roja,Melody,Romantic,68,280,1992,Pw4dXMaqxGw,https://img.youtube.com/vi/Pw4dXMaqxGw/hqdefault.jpg,850000,4.9,128,192,800,2500,5000,6.7,134,336,sd,Tamil
+30,Annaatthe Title Song,D Imman,Annaatthe,Kuthu,Energetic,136,198,2021,PBp8mQmY3CY,https://img.youtube.com/vi/PBp8mQmY3CY/hqdefault.jpg,620000,4.5,128,192,800,2500,5000,4.8,95,237,hd,Tamil
